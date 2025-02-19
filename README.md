@@ -1,9 +1,13 @@
 <h1>Hi 👋, I'm Navdeep Garg</h1>
-<p>As founder of Revinfotech, my role has been instrumental in steering the company with strategic leadership for over ten years, focusing on innovative solutions in process automation and digital transformation specifically designed for small and medium-sized businesses.
+<p>As the CEO of RevInfotech Inc, I have been leading a team of experts in various fields such as blockchain, fintech, SAP, web development, HR, and capital market consulting for over 17 years. My role involves partnering with business units and delivery teams to analyze, consult, and develop business strategies, including responding to RFPs and RFIs, market intelligence and analysis, go-to-market strategy, and developing sales and marketing collateral.
 
-Our team has achieved remarkable results by utilizing AI, Blockchain, AWS, Microsoft Azure, and SAP to improve customer experiences and operational efficiency. This success is rooted in a solid understanding of web applications and MVC methodologies.
+In addition to my role at RevInfotech, I am also a co-founder of Revolutions.ai and Eiysys, where I leverage my skills in product management, global product management, and product leadership to drive innovation and growth. I hold a foundation degree in computer science from the National University of Singapore and several certifications, including Google Analytics Individual Qualification, Google AdWords certification - shopping advertising, and ThingWorx Developer Associate. I am passionate about staying ahead of the curve in the ever-evolving tech landscape and delivering value to our clients and stakeholders.
+</p>
+</br>
+</br>
+</br>
+</br>
 
-In my capacity as CEO, I have been central to developing and implementing business strategies that strengthen Revinfotech's market presence. The development of products like Shiba Inn exemplifies our commitment. My expertise in AI and Blockchain is key to the ongoing advancement of our service offerings, ensuring they lead in technological progress</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
