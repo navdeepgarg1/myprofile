@@ -1,5 +1,9 @@
 <h1>Hi 👋, I'm Navdeep Garg</h1>
-<p>A passionate frontend developer from </p>
+<p>As founder of Revinfotech, my role has been instrumental in steering the company with strategic leadership for over ten years, focusing on innovative solutions in process automation and digital transformation specifically designed for small and medium-sized businesses.
+
+Our team has achieved remarkable results by utilizing AI, Blockchain, AWS, Microsoft Azure, and SAP to improve customer experiences and operational efficiency. This success is rooted in a solid understanding of web applications and MVC methodologies.
+
+In my capacity as CEO, I have been central to developing and implementing business strategies that strengthen Revinfotech's market presence. The development of products like Shiba Inn exemplifies our commitment. My expertise in AI and Blockchain is key to the ongoing advancement of our service offerings, ensuring they lead in technological progress</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
